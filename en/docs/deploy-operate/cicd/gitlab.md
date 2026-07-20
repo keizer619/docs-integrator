@@ -71,6 +71,7 @@ build:
 
 ## What's next
 
+- [GitLab CI/CD with SOPS secrets](gitlab-sops-kubernetes.md) -- Decrypt an encrypted Config.toml and deploy Kubernetes artifacts
 - [GitHub Actions](github-actions.md) -- CI/CD with GitHub-hosted runners
 - [Azure DevOps](azure-devops.md) -- Pipeline configuration for Azure DevOps
 - [Jenkins](jenkins.md) -- Pipeline configuration for Jenkins
